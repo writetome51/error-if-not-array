@@ -1,0 +1,32 @@
+{
+  "name": "error-if-not-array",
+  "version": "1.0.0",
+  "description": "Function triggers error if argument is not type 'array'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/error-if-not-array.git"
+  },
+  "keywords": [
+    "error",
+    "message",
+    "not",
+    "array",
+    "type-checking",
+    "type",
+    "check",
+    "data-type"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/error-if-not-array/issues"
+  },
+  "homepage": "https://github.com/writetome51/error-if-not-array#readme",
+  "dependencies": {
+    "@writetome51/is-array-not-array": "~1.0.0"
+  }
+}
