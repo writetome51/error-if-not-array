@@ -1,7 +1,7 @@
 {
   "name": "error-if-not-array",
-  "version": "1.0.0",
-  "description": "Function triggers error if argument is not type 'array'",
+  "version": "1.0.1",
+  "description": "Function triggers error if argument is not array",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,6 +27,5 @@
   },
   "homepage": "https://github.com/writetome51/error-if-not-array#readme",
   "dependencies": {
-    "@writetome51/is-array-not-array": "~1.0.0"
   }
 }
