@@ -1,4 +1,5 @@
-let errorIfNotArray = require('./index').errorIfNotArray;
+import {errorIfNotArray} from './index.js';
+
 
 errorIfNotArray([]);
 console.log('test 1 passed');

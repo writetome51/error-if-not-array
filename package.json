@@ -1,6 +1,7 @@
 {
   "name": "error-if-not-array",
-  "version": "1.0.1",
+  "version": "2.0.0",
+  "type": "module",
   "description": "Function triggers error if argument is not array",
   "main": "index.js",
   "scripts": {
